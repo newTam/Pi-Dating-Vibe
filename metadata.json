@@ -1,0 +1,9 @@
+{
+  "name": "Vibe - Connect Souls Before Faces",
+  "description": "A personality-first dating web application that focuses on compatibility and values alignment before physical attraction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
